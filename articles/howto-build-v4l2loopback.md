@@ -1,3 +1,9 @@
+---
+title: "[yocto] v4l2loopbackビルド方法"
+type: "tech" # tech: 技術記事 / idea: アイデア記事
+topics: ["yocto", "imx"]
+published: true
+---
 # 背景
 - imx yocto linux で GStreamer で [v4l2sink](https://gstreamer.freedesktop.org/documentation/video4linux2/v4l2sink.html) を使おうとするとエラーになる。
 - 最新のカーネルにオーバーレイが入っているらしいが見つからなかった。
